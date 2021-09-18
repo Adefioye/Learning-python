@@ -1,0 +1,6 @@
+Time: 2021-09-18 11:12:27,322, Name of logger: __main__, Logging level: ERROR, message: Tried dividing by zero
+Time: 2021-09-18 11:13:11,248, Name of logger: __main__, Logging level: ERROR, message: Tried dividing by zero
+Traceback (most recent call last):
+  File "log-sample.py", line 28, in divide
+    result = x / y
+ZeroDivisionError: division by zero
